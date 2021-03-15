@@ -8,11 +8,10 @@ However, when I graduated in **2019**, I decided to change my career as I starte
 
 In **2020**, I chose web development as the beginning of my IT career.
 
-I have studied online and my first languages are HTML, CSS and JavaScript.
+I have studied online and my first languages are **HTML**, **CSS** and **JavaScript**.
 
 My main hobby is:
 
 - Book
 - Cat
 - Running
-
